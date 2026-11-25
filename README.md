@@ -39,4 +39,4 @@ git clone https://github.com/Sarah-SWE/Online-shop.git
 1. Start **Apache** and **MySQL** from the XAMPP control panel.
 2. Create a database and import the tables the project uses.
 3. Update the database settings in `config.php` to match your local setup.
-4. Open `http://localhost/backendProject/` in your browser.
+4. Open `http://localhost/backendProject/index.php` in your browser.
